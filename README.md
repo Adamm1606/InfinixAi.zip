@@ -1,4 +1,5 @@
-# # AI Gateway — pacote
+# Infinix 
+AI Gateway — pacote
 
 Dois arquivos independentes com o mesmo núcleo (provedores, roteamento, debate, barramento de mensagens). Nenhum precisa de Omniroute ou de `npm install`.
 
